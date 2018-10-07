@@ -1,0 +1,22 @@
+
+<view class="container" style="background-image: url('../index/3.jpg')">
+<image style="width: 150px; height: 300px; margin:10px;" bindtap="clickMe"  src="http://pic.qiantucdn.com/58pic/10/99/57/20U58PICfgP.jpg!/fw/1024/watermark/url/L2ltYWdlcy93YXRlcm1hcmsveGlhb3R1LnBuZw==/align/center"></image>
+<!-- <button  >点击我</button> -->
+<!-- <view>时间：{{ time }}</view> -->
+<!-- <view>年：{{ year }}</view> -->
+
+<!-- <view>月：{{ mouth }}</view>
+<view>日：{{ day }}</view>
+<view>时间：{{ time }}</view>
+<view>时：{{ hour }}</view>
+<view>分：{{ min }}</view> -->
+
+
+
+<!-- <view>年地支：{{ niandizhi }}</view>
+<view>时地支：{{ shidizhi }}</view> -->
+<!-- <view>本卦：第{{ guashu }}卦</view> -->
+<!-- <view>卦象：{{ guaxiang }}</view> --> 
+<image style="width: 300px; height: 500px; margin:10px;"  src="{{imageSrc}}"></image>
+
+</view>
